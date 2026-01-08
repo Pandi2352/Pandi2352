@@ -1,12 +1,6 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Pandi+Selvam;Full+Stack+Developer+🚀;React+%7C+Angular+%7C+Flutter;NestJS+%7C+Node.js+%7C+MongoDB;AI+Enthusiast+🤖+%7C+Builder"
-    alt="Typing SVG"
-  />
-</p>
-
-<h3 align="center">🚀 Full Stack Developer | Builder of Scalable & Smart Products</h3>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Pandi Selvam</h1>
+<h3 align="center">🚀 Full Stack Developer | Builder of Cool & Scalable Products</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -18,9 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-✨ Passionate **Full Stack Developer** focused on building scalable, high-performance web & mobile apps.  
-🤖 Exploring **AI agents**, automation, and developer tools.  
-💡 I love clean architecture, reusable components, and modern UI/UX.
+✨ Passionate **Full Stack Developer** who loves building scalable, user-friendly, and modern applications.  
+💡 I enjoy turning complex problems into elegant solutions using **clean architecture** and **latest tech**.  
+🤖 Actively exploring **AI-powered systems**, automation, and developer tooling.
 
 ---
 
@@ -48,12 +42,22 @@
 
 ---
 
-## 🚀 Currently Exploring
+## 🚀 What I’m Currently Exploring
 
-- 🤖 AI / ML & LLM-powered applications  
-- ☁️ Cloudflare security, performance & edge computing  
-- 💙 Flutter & FlutterFlow for rapid cross-platform builds  
-- 🧠 Reusable auth systems & SaaS templates  
+- 🤖 Advanced **AI / ML & LLM-powered apps**
+- ☁️ **Cloudflare** for security, performance & edge computing
+- 💙 **Flutter & FlutterFlow** for rapid cross-platform development
+- 🧠 Building reusable **auth systems**, **agents**, and **SaaS templates**
+
+---
+
+## 📌 Featured Interests
+
+- 🔐 Authentication & Authorization Systems  
+- 🤖 AI Agents & Automation  
+- 📊 Dashboards & Data-Driven Products  
+- ⚡ Performance-Optimized Web Apps  
+- 🧩 Clean Architecture & Reusable Components  
 
 ---
 
@@ -73,16 +77,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-> Watch my contributions get eaten by the snake 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -96,9 +90,10 @@
 
 ---
 
-✨ **Fun Fact**  
-🚀 I don’t just write code — I build products, automate ideas, and explore tech that scales.
+## ✨ Fun Fact
+
+🚀 I don’t just write code — I **build products**, explore new tech daily, and love experimenting with **ideas that scale**.
 
 ---
 
-⭐️ *If you like my work, consider starring my repos & let’s build something awesome together!*
+⭐️ **If you like my work, consider giving a star and let’s build something awesome together!**
