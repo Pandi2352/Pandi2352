@@ -61,29 +61,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK/" target="_blank">
+  <a href="https://www.linkedin.com/in/pandi-selvam-p-1ab62b2a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mvp.bose23@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
